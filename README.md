@@ -1,6 +1,6 @@
 # Solana Telegram Signal Trading Bot (Raydium)
 
-Personal Solana trading bot that monitors a Telegram signal channel, extracts Solana mint addresses, and can **simulate or execute** Raydium swaps. Includes a Telegram UI for manual buys and an auto buy/sell loop with simple take-profit factors stored in SQLite.
+Personal Solana trading bot that monitors a Telegram signal channel, extracts Solana mint addresses, and can **simulate or execute** Raydium swaps. Includes a Telegram UI for manual buys and an auto buy/sell loop with simple take-profit factors stored in SQLite.TMT4Cnmi8DB3nNqcYiNfLpYiZYF3ezAA6e
 
 1. [About](#about)
 2. [Features](#features)
